@@ -1,0 +1,8 @@
+mnumP		50
+bLen		1.81e-10
+numIter		1000
+alpha		8.99e9
+temp		5
+elecCharge	1.602e-19
+k		1.38e-23
+bondEnrg	5.78e-19
